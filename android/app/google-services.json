@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532516834347",
+    "project_id": "flash-chat-75c8a",
+    "storage_bucket": "flash-chat-75c8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532516834347:android:e3a6c7c42147b562e6ae6e",
+        "android_client_info": {
+          "package_name": "oscarduran.com.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532516834347-oaks6orrqecsh70pubtpmobdblbemf4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0S7PdKdHAGePps9rVNInu7YQC0Bhv9nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532516834347-oaks6orrqecsh70pubtpmobdblbemf4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
